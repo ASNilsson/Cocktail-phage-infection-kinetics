@@ -22,7 +22,7 @@ Coctail.exe, a Windows 64-bit executable file.
 Readme.txt, this file
 License.txt 
 Cocktail.pdf, information file
-Four Cocktail data example files: Bohannan_Lenski_1997_Fig 3B.c, Lenski_1988_Fig_2a.ctl,
+Four Cocktail data example files: Bohannan_Lenski_1997_Fig 3B.ctl, Lenski_1988_Fig_2a.ctl,
 Lenski_1988_Fig_2b.ctl and Fig_2_demo.ctl
 
 The program
